@@ -1,0 +1,1 @@
+The current model employs a neural network with three hidden layers, each consisting of 100 units and using the hyperbolic tangent (tanh) as activation function. The output unit employs a linear activation function. In order to validate the model, we used a k-fold cross-validation grid search with k=3.
